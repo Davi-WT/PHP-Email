@@ -9,5 +9,6 @@
     
     mail($to,$subject,$message,$headers);
     
+    echo('<h1>ENVIADO</h1>');
     
 ?>
